@@ -5,6 +5,7 @@ specifiers:
   '@types/react-dom': ^18.0.11
   '@vitejs/plugin-react': ^3.1.0
   classnames: ^2.3.2
+  heic2any: ^0.0.4
   react: ^18.2.0
   react-dom: ^18.2.0
   sass: ^1.59.3
@@ -13,6 +14,7 @@ specifiers:
 
 dependencies:
   classnames: 2.3.2
+  heic2any: 0.0.4
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   sass: 1.59.3
@@ -712,6 +714,10 @@ packages:
     dependencies:
       function-bind: 1.1.1
     dev: true
+
+  /heic2any/0.0.4:
+    resolution: {integrity: sha512-3lLnZiDELfabVH87htnRolZ2iehX9zwpRyGNz22GKXIu0fznlblf0/ftppXKNqS26dqFSeqfIBhAmAj/uSp0cA==}
+    dev: false
 
   /immutable/4.3.0:
     resolution: {integrity: sha512-0AOCmOip+xgJwEVTQj1EfiDDOkPmuyllDuTuEX+DDXUgapLAsBIfkg3sxCYyCEA8mQqZrrxPUGjcOQ2JS3WLkg==}
